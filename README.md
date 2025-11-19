@@ -2,7 +2,7 @@
 Welcome to my project portfolio! This repository showcases the projects I've worked on during my learning journey.
 ## :file_folder: Projects
 ### 1. Tech Learning Journal
-**Repository**: [tech-learning](https://github.com/widaadalhandasi-wq/tech-learning.git)
+**Repository**: [tech-learning] (https://github.com/widaadalhandasi-wq/tech-learning.git)
 - **Description**:Technical documentation and reports about software development concepts.
 - **Technologies**: Git, GitHub.
 - **What I Learned**: Version control, technical writing, software development fundamentals
